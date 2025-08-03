@@ -1,0 +1,11 @@
+﻿WorkHours,RemoteWork,CompanySupport,StressLevel,PastHistory,MentalHealth
+40,Yes,Yes,Low,No,No
+50,No,No,High,Yes,Yes
+38,Yes,Yes,Medium,No,No
+60,No,No,High,Yes,Yes
+35,Yes,Yes,Low,No,No
+55,No,No,High,Yes,Yes
+42,Yes,No,Medium,Yes,Yes
+37,Yes,Yes,Low,No,No
+48,No,Yes,High,Yes,Yes
+39,Yes,No,Medium,No,No
