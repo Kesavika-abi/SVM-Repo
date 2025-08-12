@@ -70,15 +70,15 @@ http://127.0.0.1:5000/
 
 
 ###  Use Cases
- HR Departments: Identify at-risk employees early
+ - HR Departments: Identify at-risk employees early
 
- Workplace Well-being Programs
+ - Workplace Well-being Programs
 
- Educational Demonstrations in Data Science & ML
+ - Educational Demonstrations in Data Science & ML
 
 ###  Future Enhancements
-Add more features like work location, sleep patterns, job role
+ - Add more features like work location, sleep patterns, job role
 
-Deploy online using Heroku, Render, or Streamlit
+ - Deploy online using Heroku, Render, or Streamlit
 
-Integrate with HR databases for real-time analytics
+ - Integrate with HR databases for real-time analytics
